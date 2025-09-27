@@ -15,6 +15,7 @@ This is a proof of concept library designed to get me in the headspace of making
 rather than believing that the rules of music "crumble to dust", i actually think exploring music theory in a more freeform-mathematical sense can help uncover a lot about traditionally taught theory itself! this library is the result of my intention to do just that.
 
 ## Features
+- an implementation over at [thrybx_fe](https://github.com/itspacrat/thrybx_fe)
 - basic structures defining an "Octave" - THRYBX's idea of the general-est definition for a piano made up of one single octave.
 
 ## Ideas
@@ -23,3 +24,4 @@ rather than believing that the rules of music "crumble to dust", i actually thin
 ## Resources
 - me, i just critically thought about a lot of the rules of music and the general trigonometry of sound waves
   - (so by proxy, my precalc I and II teachers as well)
+
