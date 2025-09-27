@@ -2,10 +2,10 @@
 <h5>(pronounced like "Theory Box") - Testing library for a nonstandard musical sequencing sandbox</h5><h6><sub>(written in rust!!!)</sub><h6>
 
 ## Navigation
-[<b>About:</b> <i>why is this here?</i>](#About)
-[<b>Features:</b> <i>what can it do already?</i>](#Features)
-[<b>Ideas:</b> what <i>might it do later?</i>](#Ideas)
-[<b>Resources</b>: <i>stuff i used making this</i>](#Resources)
+- [<b>About:</b> <i>why is this here?</i>](#About)
+- [<b>Features:</b> <i>what can it do already?</i>](#Features)
+- [<b>Ideas:</b> what <i>might it do later?</i>](#Ideas)
+- [<b>Resources</b>: <i>stuff i used making this</i>](#Resources)
 
 ## About
 > *"Octaves no longer have to be twice the frequency of the root note. There can be like, 7 or 50 semitones in an octave. The rules of music, thusly, crumble to dust." <br /><br />- Me, whilst having the idea for this in late 2024*
