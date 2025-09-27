@@ -1,4 +1,5 @@
-# <u>Testing library for a nonstandard musical sequencing sandbox</u>
+# THRYBX
+<h5>(pronounced like "Theory Box") - Testing library for a nonstandard musical sequencing sandbox</h5><h6><sub>(written in rust!!!)</sub><h6>
 
 ## Navigation
 [<b>About:</b> <i>why is this here?</i>](#About)
