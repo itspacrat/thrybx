@@ -4,7 +4,11 @@
 /// 
 /// ### Example instantiation
 /// ```
-/// let oct: Octave = Octave::new(440_f32, )
+/// let oct: Octave = Octave::new(440_f32, 12_f32, 2_f32) // standard tuning + even temperment
+/// 
+/// let freq: f32 = oct.get_note_frequency(-9); // ~261.63 hz, C4
+/// -
+/// let tone = Tone::new(400_u64, freq) // a C4 note lasting 0.4 seconds
 /// ```
 /// 
 /// *Note: in even western temperment and standard tuning, a good*
@@ -71,8 +75,8 @@ impl Octave {
     pub fn get_notes(&self) -> f32 {
         self.length
     }
-    /// returns the frequency of a certain semitone on this
-    /// [Octave].
+    /// shortcut which returns the frequency of a certain semitone
+    /// on this [Octave].
     ///
     /// index 0 plays the root frequency unchanged, -1 scales
     /// down one semitone, using [Octave.length] scales up one octave etc. ...
